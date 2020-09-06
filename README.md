@@ -1,2 +1,2 @@
-# dataProcAss
-Data Processing at Scale Assignments taught by Yuhan Sun.
+# Data Processing at Scale
+Programming Assignments for Data Processing at Scale (CSE-511) taught by Dr. Yuhan Sun.
